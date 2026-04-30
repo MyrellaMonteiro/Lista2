@@ -1,0 +1,7 @@
+C:\Users\jaque\OneDrive\Área de Trabalho\Lista2exc10_Myrella\Lista2exc10_Myrella\obj\Debug\Lista2exc10_Myrella.csproj.AssemblyReference.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Lista2exc10_Myrella\Lista2exc10_Myrella\obj\Debug\Lista2exc10_Myrella.csproj.CoreCompileInputs.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Lista2exc10_Myrella\Lista2exc10_Myrella\bin\Debug\Lista2exc10_Myrella.exe.config
+C:\Users\jaque\OneDrive\Área de Trabalho\Lista2exc10_Myrella\Lista2exc10_Myrella\bin\Debug\Lista2exc10_Myrella.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Lista2exc10_Myrella\Lista2exc10_Myrella\bin\Debug\Lista2exc10_Myrella.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\Lista2exc10_Myrella\Lista2exc10_Myrella\obj\Debug\Lista2exc10_Myrella.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Lista2exc10_Myrella\Lista2exc10_Myrella\obj\Debug\Lista2exc10_Myrella.pdb
